@@ -150,7 +150,8 @@ p {
 .explore-content .line {
 	margin-bottom: 50px;
 }
-.explore-content p {
+.explore-content h2 {
+	font-size: 15px;
 	color: white;
 }
 .explore-content .ctn {
