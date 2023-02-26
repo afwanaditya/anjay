@@ -30,6 +30,7 @@ body, html {
 	Aleft: 0;
 	display: flex;
 	width: 100%;
+        position: fixed;
         transition: .3s:
 	justify-content: space-between;
 	padding: 20px;
