@@ -30,9 +30,9 @@ body, html {
 	display: flex;
 	width: 100%;
         position: fixed;
-        background-color: black;
         transition: .3s:
 	padding: 20px;
+        color: whitesmoke;
 }
 .nav-links {
 	display: flex;
