@@ -25,12 +25,12 @@ body, html {
         transition: .3s;
 }
 .navbar {
-	position: absolute;
 	top: 0;
 	Aleft: 0;
 	display: flex;
 	width: 100%;
         position: fixed;
+        background-color: black;
         transition: .3s:
 	justify-content: space-between;
 	padding: 20px;
