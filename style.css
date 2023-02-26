@@ -21,6 +21,8 @@ a {
 }
 body, html {
 	overflow-x: hidden;
+        scroll-behavior: smooth;
+        transition: .3s;
 }
 .navbar {
 	position: absolute;
@@ -28,6 +30,7 @@ body, html {
 	Aleft: 0;
 	display: flex;
 	width: 100%;
+        transition: .3s:
 	justify-content: space-between;
 	padding: 20px;
 	color: whitesmoke;
