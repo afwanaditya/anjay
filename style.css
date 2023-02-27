@@ -30,6 +30,7 @@ body, html {
 	display: flex;
 	width: 100%;
         position: fixed;
+        color: black;
         transition: .3s:
 	padding: 20px;
 }
