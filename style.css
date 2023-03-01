@@ -91,7 +91,8 @@ header {
 	color: whitesmoke;
 }
 .menu-btn {
-	position: absolute;
+    position: absolute;
+    border-radius: 10px;
     top: 30px;
     right: 30px;
     width: 40px;
