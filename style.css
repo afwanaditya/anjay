@@ -260,7 +260,7 @@ ul{
 		height: 30vh;
 		justify-content: center;
                 box-shadow: 2px 2px 5px #00000056;
-		background: #778899;
+		background: white;
 		margin-top: -900px;
 		transition: all 0.5s ease;
 	}
@@ -291,14 +291,16 @@ ul{
 	}
 }
 
-
+a {
+     color: black;
+}
 .ctn:hover {
 	background: whitesmoke;
 	color: #fc036b;
 	box-shadow: 2px 2px 5px #00000056;
 }
 a:hover {
-	color: #fc036b;
+	color: #778899;
 }
 
 @media(max-width: 767px){
